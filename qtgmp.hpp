@@ -3,11 +3,12 @@
 #ifndef QTGMP_HPP
 #define QTGMP_HPP
 
+#include <QDialog>
 #include <QLineEdit>
 #include <QTextEdit>
 #include <QPushButton>
 
-class QtGMP : public QWidget
+class QtGMP : public QDialog
 {
     Q_OBJECT
 public:

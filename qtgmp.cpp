@@ -7,7 +7,7 @@
 #include <QPushButton>
 #include <QBoxLayout>
 #include <QRegExpValidator>
-QtGMP::QtGMP(QWidget *parent):QWidget(parent)
+QtGMP::QtGMP(QWidget *parent):QDialog(parent)
 {
     QVBoxLayout *vertical = new QVBoxLayout(parent);
     QHBoxLayout *horizon = new QHBoxLayout();
