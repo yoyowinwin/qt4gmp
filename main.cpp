@@ -1,5 +1,3 @@
-//Your comment will always be highly valued,MY EMAIL: wayne.winged@gmail.com
-
 #include <QApplication>
 #include "qtgmp.hpp"
 
